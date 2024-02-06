@@ -1,0 +1,5 @@
+2024/01/26-14:21:44.314568 0x1db6ddc40 Recovering log #823
+2024/01/26-14:21:44.314615 0x1db6ddc40 Level-0 table #825: started
+2024/01/26-14:21:44.319461 0x1db6ddc40 Level-0 table #825: 408 bytes OK
+2024/01/26-14:21:44.333711 0x1db6ddc40 Delete type=0 #823
+2024/01/26-14:21:44.333743 0x1db6ddc40 Delete type=3 #821
